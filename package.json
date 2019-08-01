@@ -1,6 +1,6 @@
 {
-  "name": "browserify-cache-api",
-  "version": "3.0.1",
+  "name": "browserify-cache-api-fix",
+  "version": "3.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
